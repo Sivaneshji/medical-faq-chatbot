@@ -1,0 +1,15 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+Chromadb
+sentence_transformers
+langchain_chroma
+pandas
+openai
+langchain-text-splitters
+langchain_openai
+
+
